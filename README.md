@@ -4,7 +4,6 @@
 ![OpenCV](https://img.shields.io/badge/Computer_Vision-OpenCV-green?style=flat-square&logo=opencv)
 ![Scikit-Learn](https://img.shields.io/badge/ML-Scikit--Learn-orange?style=flat-square&logo=scikit-learn)
 
-> **Course:** Introduction to Machine Learning (IT3002) | **Institute:** IIIT-Allahabad
 
 ## 📖 Overview
 
@@ -98,19 +97,9 @@ The project is contained within a single interactive Jupyter Notebook.
 ```
 ---
 
-## 👥 Team Members (Group 41)
 
-- Hargun Preet Singh (IIT2023191) - Methodology & Pipeline Design 
 
-- Adarsh Kumar (IIT2023194) - Data Acquisition & Ground Truth 
 
-- Rounak Dagar (IIT2023195) - Statistical Analysis & Feature Engineering 
-
-- Kanishk Sakarwar (IIT2023210) - Validation & Reporting 
----
-
-## 📄 License
-This project is open-source and available under the MIT License.
 
 > **Note on Replication**: For best results when testing the interactive app, ensure your input image has a clean white background, similar to the training data. This ensures the computer vision algorithms correctly isolate the fruit.
 ---
